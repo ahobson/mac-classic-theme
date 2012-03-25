@@ -15,6 +15,7 @@
  '(font-lock-string-face             ((t (:foreground "#036A07"))))
  '(font-lock-comment-face            ((t (:foreground "#0066FF" :italic t))))
  '(font-lock-comment-delimiter-face  ((t (:foreground "#0066FF"))))
+ '(whitespace-trailing               ((t (:background "#FFD0D0"))))
  '(font-lock-doc-face                ((t (:italic t :slant oblique :foreground "#B90690"))))
  '(font-lock-doc-string-face         ((t (:foreground "#B90690")))))
 (provide-theme 'mac-classic)
