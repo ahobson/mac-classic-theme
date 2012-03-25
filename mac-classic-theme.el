@@ -7,7 +7,6 @@
  ;; Font lock faces
  '(font-lock-builtin-face            ((t (:foreground "#0000CD" :bold t))))
  '(font-lock-constant-face           ((t (:foreground "#C5060B" :bold t))))
- '(font-lock-reference-face          ((t (:foreground "#C5060B" :bold t))))
  '(font-lock-preprocessor-face       ((t (:foreground "#3596A4"))))
  '(font-lock-keyword-face            ((t (:foreground "#0000FF" :bold t))))
  '(font-lock-type-face               ((t (:foreground "#7175F0"))))
