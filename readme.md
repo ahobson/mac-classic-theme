@@ -1,4 +1,4 @@
-# mac-classic-theme [![Build Status](https://travis-ci.org/EricCrosson/mac-classic-theme.svg?branch=master)](https://travis-ci.org/EricCrosson/mac-classic-theme)  [![Version](https://img.shields.io/github/tag/EricCrosson/mac-classic-theme.svg)](https://github.com/EricCrosson/mac-classic-theme/releases)
+# mac-classic-theme [![Build Status](https://travis-ci.org/EricCrosson/mac-classic-theme.svg?branch=master)](https://travis-ci.org/EricCrosson/mac-classic-theme) [![Version](https://img.shields.io/github/tag/EricCrosson/mac-classic-theme.svg)](https://github.com/EricCrosson/mac-classic-theme/releases)
 
 > Bringin' back the glory days
 
