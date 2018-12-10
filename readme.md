@@ -25,7 +25,7 @@ Or manually, after downloading into your `load-path`
 
 ![Behold the glory](https://raw.githubusercontent.com/EricCrosson/mac-classic-theme/master/img/demo.png)
 
-## Acknowledgements
+## Acknowledgments
 
 Inspired by TextMate's Mac Classic theme.
 
